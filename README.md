@@ -2,7 +2,7 @@
 
 This repository contains the GAP program and recorded output for the verification of Proposition `prop:psl33-E3` in the accompanying manuscript.
 
-The program constructs $G=\operatorname{PSL}_3(3)$ in its action on the thirteen points of $\operatorname{PG}(2,3)$ and enumerates the 646 subgroups of the point stabilizer $P$. It finds the twenty-four exceptional subgroups and their six $G$-conjugacy classes, then computes $A_x$ and $(G^{(3),\Omega})_x$ for one representative of each class.
+The program constructs $G=\mathrm{PSL}_3(3)$ in its action on the thirteen points of $\mathrm{PG}(2,3)$ and enumerates the 646 subgroups of the point stabilizer $P$. It finds the twenty-four exceptional subgroups and their six $G$-conjugacy classes, then computes $A_x$ and $(G^{(3),\Omega})_x$ for one representative of each class.
 
 Here an exceptional subgroup is a subgroup $1<H<P$ such that $H\cap H^g\ne 1$ for every $g\in G$. For each representative, $\Omega=G/H$ and $x=H$.
 
