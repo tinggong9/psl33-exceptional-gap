@@ -1,0 +1,15 @@
+|G| = 5616  |P| = 432
+subgroups of P: 646
+exceptional subgroups: 24
+order distribution: [ [ 48, 9 ], [ 54, 4 ], [ 72, 3 ], [ 108, 4 ], 
+  [ 144, 3 ], [ 216, 1 ] ]
+classes [order, members in P]: [ [ 48, 9 ], [ 54, 4 ], [ 72, 3 ], [ 108, 4 ], 
+  [ 144, 3 ], [ 216, 1 ] ]
+[ |H|, |Omega|, pair colors, |A_x|, |3-closure stab|, = image of H ]
+[ 48, 117, 345, 48, 48, true ]
+[ 54, 104, 264, 54, 54, true ]
+[ 72, 78, 148, 72, 72, true ]
+[ 108, 52, 72, 108, 108, true ]
+[ 144, 39, 22, 288, 144, true ]
+[ 216, 26, 16, 1944, 216, true ]
+total time (ms): 9482
